@@ -1,4 +1,4 @@
-package com.makotojava.intro;
+package com.maestrosat.tut;
 
 /**
  * Functional interface - used to process Stock Options

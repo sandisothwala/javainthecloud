@@ -1,4 +1,4 @@
-package com.makotojava.intro;
+package com.maestrosat.tut;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -19,7 +19,7 @@ import java.util.StringTokenizer;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-import com.makotojava.intro.Person.Gender;
+import com.maestrosat.tut.Person.Gender;
 
 public class HumanResourcesApplication {
   private static final Logger log = Logger.getLogger(HumanResourcesApplication.class.getName());

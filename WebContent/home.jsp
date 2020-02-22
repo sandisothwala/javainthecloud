@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <%@ page import="java.util.List"%>
-<%@ page import="com.makotojava.intro.Employee" %>
+<%@ page import="com.maestrosat.tut.Employee" %>
 <html>
 <head>
 	<title> ${myapp.title} </title>

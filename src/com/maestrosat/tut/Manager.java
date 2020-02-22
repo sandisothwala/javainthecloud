@@ -1,4 +1,4 @@
-package com.makotojava.intro;
+package com.maestrosat.tut;
 
 import java.math.BigDecimal;
 import java.util.logging.Logger;
